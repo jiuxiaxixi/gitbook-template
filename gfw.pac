@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 proxy.key-smile.cn:10800; PROXY proxy.key-smile.cn:10800; DIRECT";
+var proxy = "HTTP proxy.key-smile.cn:10801; PROXY proxy.key-smile.cn:10801; DIRECT";
 
 var direct = 'DIRECT;';
 
