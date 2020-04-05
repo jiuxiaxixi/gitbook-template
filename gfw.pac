@@ -1,4 +1,4 @@
-var proxy = "HTTP proxy.key-smile.cn:10801; PROXY proxy.key-smile.cn:10801; DIRECT";
+var proxy = "HTTP p.key-smile.cn:10801; PROXY p.key-smile.cn:10801; DIRECT";
 
 var direct = 'DIRECT;';
 
